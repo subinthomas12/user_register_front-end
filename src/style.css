@@ -1,0 +1,24 @@
+.header{
+    padding-top: 5%;
+}
+
+.inputdiv{
+    margin: 5px;
+    padding: 5px;
+}
+
+.myInput{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.mybutton{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+}
